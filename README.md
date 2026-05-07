@@ -1,0 +1,1 @@
+AI HealthMate is a machine learning-powered web application designed to assist users in managing basic health needs and obtaining personalized medical guidance from home. Built with Python and Streamlit, it serves as an intelligent health assistant that can predict potential conditions, monitor vitals, and provide contextual wellness advice
