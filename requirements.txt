@@ -1,3 +1,5 @@
 streamlit
 groq
 streamlit-option-menu
+fpdf
+python-dotenv
